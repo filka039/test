@@ -7,3 +7,4 @@ Add Line
 Line echo
 new branch line
 new line for GUI
+new line for GUI2
